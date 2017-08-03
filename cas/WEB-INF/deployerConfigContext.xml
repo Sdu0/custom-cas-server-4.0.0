@@ -108,7 +108,7 @@
           class="org.jasig.cas.authentication.AcceptUsersAuthenticationHandler">
         <property name="users">
             <map>
-		    <entry key="szzj_1" value="szzj_1"/>
+		    <entry key="admin" value="admin"/>
             </map>
         </property>
     </bean>
